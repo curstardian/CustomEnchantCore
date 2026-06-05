@@ -1,0 +1,15 @@
+name: CustomEnchantCore
+version: 2.2
+main: com.custardcream.cusSmpEnchant.CustomEnchantCore
+api-version: '26.1'
+
+commands:
+  overenchant:
+    description: 오버레벨 인챈트북 지급
+    usage: /overenchant give <player> <sharpness|impaling|protection|fire|blast|projectile|thorns> <level> [amount]
+    permission: cusenchant.admin
+
+permissions:
+  cusenchant.admin:
+    description: 커스텀 인챈트 관리자 권한
+    default: op

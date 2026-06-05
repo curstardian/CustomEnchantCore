@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs/cus-smp-enchant-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

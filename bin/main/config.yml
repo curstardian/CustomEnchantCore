@@ -1,0 +1,13 @@
+# 모루 'Too Expensive' 제한 해제 여부 (true: 해제, false: 바닐라 제한 유지)
+bypass-too-expensive: true
+
+# 오버레벨 인챈트 최대 등급 설정 (1 이상의 값, 바닐라 최대치 이하로도 설정 가능)
+enchant-caps:
+  sharpness: 10
+  impaling: 10
+  protection: 10
+  fire_protection: 10
+  blast_protection: 10
+  projectile_protection: 10
+  thorns: 8
+  density: 8

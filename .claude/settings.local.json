@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:hub.spigotmc.org)",
+      "WebSearch",
+      "WebFetch(domain:jd.papermc.io)"
+    ]
+  }
+}
